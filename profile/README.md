@@ -1,6 +1,6 @@
 # HelesiaStudios
 
-Bienvenue dans l'organisation FuncraftRecode ! 🚀
+Bienvenue dans l'organisation HelesiaStudios ! 🚀
 
 ## À propos
 
